@@ -1,4 +1,4 @@
-# 🔐 Cyber Range Lab (SOC + Active Directory Environment)
+#  Cyber Range Lab (SOC + Active Directory Environment)
 
 Built a hands-on cybersecurity lab to simulate real-world attacks and detection using SIEM and endpoint monitoring.
 
