@@ -58,10 +58,7 @@ This attack targets **Kerberos pre-authentication**.
 ---
 
 **Command used:**
-```markdown
-**Command used:**
 
-```bash
 python3 GetNPUsers.py CyberEye.local/ -usersfile /home/randy/users.txt -no-pass -dc-ip <IP>
 This command sends authentication requests to the Domain Controller and identifies users with pre-authentication disabled.
 ```markdown
