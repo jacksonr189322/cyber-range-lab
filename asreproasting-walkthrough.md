@@ -60,11 +60,11 @@ This attack targets **Kerberos pre-authentication**.
 **Command used:**
 ```bash
 python3 GetNPUsers.py CyberEye.local/ -usersfile /home/randy/users.txt -no-pass -dc-ip <>
-<img width="1989" height="205" alt="command_to_run_attack" src="https://github.com/user-attachments/assets/3dd68797-bf11-40f7-b916-3cb422a72a55" />
+![AS-REP Attack Output](https://github.com/user-attachments/assets/3dd68797-bf11-40f7-b916-3cb422a7a255)
 This command sends authentication requests to the Domain Controller and identifies users with pre-authentication disabled.
 
 Retrieved Hashes
-<img width="2880" height="1800" alt="image (3)" src="https://github.com/user-attachments/assets/f3d1d916-72c4-4002-ac0f-7ed0bf9fffe0" />
+![AS-REP Hashes](https://github.com/user-attachments/assets/f3d1d916-72c4-4002-ac0f-7ed0bf9fff0)
 
 
 
