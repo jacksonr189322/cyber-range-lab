@@ -64,7 +64,8 @@ python3 GetNPUsers.py CyberEye.local/ -usersfile /home/randy/users.txt -no-pass 
 This command sends authentication requests to the Domain Controller and identifies users with pre-authentication disabled.
 
 Retrieved Hashes
-<img width="2880" height="1800" alt="as_rep_hashes" src="https://github.com/user-attachments/assets/04a2bdc0-4558-4d1a-8bf4-de10f93fd33a" />
+<img width="2880" height="1800" alt="image (3)" src="https://github.com/user-attachments/assets/f3d1d916-72c4-4002-ac0f-7ed0bf9fffe0" />
+
 
 
 
