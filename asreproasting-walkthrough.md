@@ -55,7 +55,7 @@ This attack targets **Kerberos pre-authentication**.
 ## Attack Command & Output
 
 
----
+
 
 
 ![AS-REP Hashes](https://github.com/user-attachments/assets/f3d1d916-72c4-4002-ac0f-7ed0bf9fff0)
